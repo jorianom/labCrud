@@ -2,7 +2,7 @@
   "name": "laboratorio-1",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "start:prod": "set NODE_ENV=production && nodemon index.js"
